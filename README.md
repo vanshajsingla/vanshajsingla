@@ -29,8 +29,8 @@
 ## My Github Status
 
 <img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vanshajsingla&show_icons=true&theme=radical"/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshajsingla&theme=react" alt="vanshajsingla" /></p>
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vanshajsingla&hide_progress=true&theme=react&line_height=30"/>
 
 
 ## Connect with me:
